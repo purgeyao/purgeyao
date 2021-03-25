@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 #### master
 ![Java](https://img.shields.io/badge/Java-C76D00?style=flat-square&logo=Java&logoColor=white)
-![React](https://img.shields.io/badge/React-C76D00?style=flat-square&logo=React&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-C76D00?style=flat-square&logo=Flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-01AEFF?style=flat-square&logo=Flutter&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-32CD32?style=flat-square&logo=Spring&logoColor=white)
 ![Mysql](https://img.shields.io/badge/Mysql-01758F?style=flat-square&logo=Mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-D92C21?style=flat-square&logo=Redis&logoColor=white)
