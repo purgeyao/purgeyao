@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### Contact me 📱
 
-🏷 **blogs** [loveincode](https://www.cnblogs.com/Purgeyao/) </br>
+🏷 **blogs** [PurgeYao](https://www.cnblogs.com/Purgeyao/) </br>
 📩 **email** yaoonlyi@gmail.com </br>
 📟 **wechat** MercyYao </br>
 
@@ -73,4 +73,3 @@ Here are some ideas to get you started:
 ### My GitHub Stats
 
 ![purgeyao's github stats](https://github-readme-stats.vercel.app/api?username=purgeyao&show_icons=true)
-![purgeteam's github stats](https://github-readme-stats.vercel.app/api?username=purgeteam&show_icons=true)
