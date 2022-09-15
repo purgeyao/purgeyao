@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ## Hi coder 👋
- 👨🏽‍💻  I'm purgeyao , Chinese name yao.zhao, Java engineer. </br>
+ 👨🏽‍💻  I'm purgeyao , Java architect. </br>
  💼  I started my java internship in 2015-2016 , Officially working from 2017-now , 5 years experience.
 
 ### Contact me 📱
